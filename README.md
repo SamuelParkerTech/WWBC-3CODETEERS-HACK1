@@ -11,6 +11,13 @@ A group project from the Code Institute for Hackathon 1. Creating a website guid
 # Public Trello Board
 https://trello.com/b/owCtF6mD/3-codeteers-staying-safe-online
 
+
+# Website MockUps
+
+Basic designs for the pages created in Canva. 
+
+<img src="Projectassets/Website MockUps.jpg">
+
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
