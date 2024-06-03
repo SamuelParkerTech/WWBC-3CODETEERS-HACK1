@@ -2,11 +2,14 @@
 
 Welcome Samuel Parker,
 
-**Samuel, Ted, Ahmed Hackathon 1: Staying Safe Online. June 2024
+**Samuel, Ted, Ahmed, Hackathon 1: Staying Safe Online. June 2024**
 
 **Team Name: The Three Codeteers**
 
-A group project from the Code Institute for Hackathon 1. Creating a website guide to staying safe online.  
+A group project from the Code Institute for Hackathon 1. Creating a website guide to staying safe online.
+
+# Public Trello Board
+https://trello.com/b/owCtF6mD/3-codeteers-staying-safe-online
 
 ## Gitpod Reminders
 
