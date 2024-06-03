@@ -1,6 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+Welcome Samuel Parker,
 
 **Samuel, Ted, Ahmed Hackathon 1: Staying Safe Online. June 2024
 
