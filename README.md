@@ -1,4 +1,4 @@
-![3COdeteers Logo] <img src="assets/css/images/logo.jpg">
+<img src="assets/css/images/logo.jpg">
 
 Welcome Samuel Parker,
 
