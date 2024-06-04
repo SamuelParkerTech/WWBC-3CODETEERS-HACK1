@@ -106,6 +106,8 @@ nav {
     background-color: #C1DBDA;
 }
 
+/* -- Social Link Styles -- */
+
 .social-links {
     padding-bottom: 15px;
 }
@@ -114,11 +116,11 @@ nav {
     width: 32px;
     height: 32px;
     padding: 12px 0;
-    border-radius: 50%;
+    border-radius: 20%;
     font-size: 13px;
     line-height: 7px;
     text-align: center;
-    color: #fafafa;
+    color: #fff;
     background: #8f8f8f;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
@@ -126,6 +128,10 @@ nav {
     -o-transition: all 0.35s ease-in-out;
 }
 
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
 .social-links li a i:hover {
-    background: #e84610;
+    background: orange;
 }
