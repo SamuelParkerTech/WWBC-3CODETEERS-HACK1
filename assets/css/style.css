@@ -1,2 +1,48 @@
 /*Main CSS for Project One */
 
+/* ------ General Rules -------- */
+
+html {
+    height: 100%;
+    width: 100%;
+  }
+
+  body {
+    font-family: "X", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+    color: black;
+  }
+
+h1, 
+h2, 
+h3, 
+h4 {
+    margin:0;
+    padding: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+/* ------ Header Styles -------- */
+
+#headerid {text-align: center;
+    color:  black;
+    background-color: orange;}
+
+/* ------ Main Page Content -------- */    
+
+#onlinedangers {
+    text-align: center;
+}
+
+/* ------ Footer Styles -------- */
+
+#footerid
+{text-align: center;
+color: #1d3557;
+background-color: #e63946;
+}
