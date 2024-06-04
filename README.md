@@ -1,4 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![3COdeteers Logo] <img src="assets/css/images/logo.jpg">
 
 Welcome Samuel Parker,
 
