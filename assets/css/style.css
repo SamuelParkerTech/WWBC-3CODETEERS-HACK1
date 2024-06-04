@@ -5,21 +5,21 @@
 html {
     height: 100%;
     width: 100%;
-  }
+}
 
-  body {
+body {
     font-family: "X", sans-serif;
     margin: 0;
     padding: 0;
     background-color: whitesmoke;
     color: black;
-  }
+}
 
-h1, 
-h2, 
-h3, 
+h1,
+h2,
+h3,
 h4 {
-    margin:0;
+    margin: 0;
     padding: 0;
 }
 
@@ -27,13 +27,49 @@ h4 {
     text-transform: uppercase;
 }
 
-/* ------ Header Styles -------- */
+/* ------ Header Styles & Menu Link Styles -------- */
 
-#headerid {text-align: center;
-    color:  black;
-    background-color: orange;}
+#headerid {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    color: black;
+    background-color: orange;
+    padding: 0;
+}
 
-/* ------ Main Page Content -------- */    
+nav {position: relative;}
+
+.safe-online {    
+    background-color: white;
+    height: 30px;
+    padding: 0;
+    margin: 0;}
+
+.best-practice {
+    background-color: white;
+    height: 30px;
+    padding: 0;
+    margin: 0;
+}
+
+.resources {
+    background-color: white;
+    height: 30px;
+    padding: 0;
+    margin: 0;
+}
+
+.menucontainer {}
+
+/* css Style classes ready (apply to all pages) */
+
+.linksafe {}
+.linkbestpractice {}
+.linkresources {}
+
+
+/* ------ Main Page Content -------- */
 
 #onlinedangers {
     text-align: center;
@@ -41,8 +77,8 @@ h4 {
 
 /* ------ Footer Styles -------- */
 
-#footerid
-{text-align: center;
-color: #1d3557;
-background-color: #e63946;
+#footerid {
+    text-align: center;
+    color: #1d3557;
+    background-color: #C1DBDA;
 }
