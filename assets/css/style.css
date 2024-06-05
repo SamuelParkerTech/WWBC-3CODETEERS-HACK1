@@ -60,8 +60,8 @@ li {
     color: black;
     background-color: #C1DBDA;
     padding: 0;
+    height: 180px; 
 }
-
 /* css Style classes ready (apply to all pages) */
 
 
@@ -77,7 +77,6 @@ li {
     text-align: center;
     justify-content: center;
 }
-
 
 .bestlist {
     margin: 10px;
