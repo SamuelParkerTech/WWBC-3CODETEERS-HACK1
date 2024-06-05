@@ -64,8 +64,8 @@ li {
     color: black;
     background-color: #C1DBDA;
     padding: 0;
-    height: 180px; 
 }
+
 /* css Style classes ready (apply to all pages) */
 
 
@@ -82,6 +82,10 @@ li {
     justify-content: center;
 }
 
+/* ------- Best Practice Content ---------  */
+#bestpracticeid {
+    text-align: left;  
+  }
 
   .bestlist {
     margin: 10px;
@@ -187,6 +191,3 @@ li {
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
   }
-
-
-
