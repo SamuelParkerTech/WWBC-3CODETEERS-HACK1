@@ -2,11 +2,6 @@
 
 /* ------ General Rules -------- */
 
-html {
-    height: 100%;
-    width: 100%;
-}
-
 body {
     font-family: "X", sans-serif;
     margin: 0;
