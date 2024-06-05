@@ -41,6 +41,10 @@ li {
     text-align: center;
 }
 
+.bold {
+    font-weight: 700;
+}
+
 /* ------ Header Styles & Menu Link Styles -------- */
 
 #headerid {
@@ -63,6 +67,25 @@ li {
 
 #videocontentsafeonline {
     text-align: center;
+}
+
+/* ------ Best Practice Page Styles --*/
+
+.bestlist {
+    margin: 10px auto;
+    width: 60%;
+    padding: 10px;
+    background-color: #e1fbfa;
+}
+
+.bestlist li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.bestlist ul {
+    margin: 10px;
 }
 
 /* ------ Footer Styles -------- */
