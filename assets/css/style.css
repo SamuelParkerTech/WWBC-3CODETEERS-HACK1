@@ -47,6 +47,10 @@ li {
     margin: auto;
 }
 
+.bold {
+    font-weight: 800;
+}
+
 .hidden {
     display: none;
 }
@@ -78,17 +82,17 @@ li {
     justify-content: center;
 }
 
+/* ------- Best Practice Content ---------  */
+#bestpracticeid {
+    text-align: left;  
+  }
 
-.bestlist {
+  .bestlist {
     margin: 10px;
     padding: 10px;
     background-color: #e1fbfa;
+    list-style-type: none;
 }
-
-/* ------- Best Practice Content ---------  */
-#bestpracticeid {
-    text-align: center;  
-  }
  
 /* ------- Best  Resource Content -----*/
 
