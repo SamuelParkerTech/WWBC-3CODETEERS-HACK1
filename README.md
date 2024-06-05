@@ -48,6 +48,7 @@ Aqua - c1dbda
 
 # 6.Features Left to Implement
 If time allows we would like to add more video content on each page. Improved styling and responsiveness.
+Fourth Page / Blogs and Scare Stories. News. We would like to add. 
 
 # 7.Testing
 We have rigorously tested and checked the live site as we have worked. Issues have been resolved and remedied at mentioned. All links are currently working and going to the correct places. 
