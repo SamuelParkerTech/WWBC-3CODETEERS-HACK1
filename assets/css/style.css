@@ -134,9 +134,10 @@ li {
     width: 100%;
   }
 
- @media (max-width: 576px){
+/* remove the logo on screens below 768px width */
+ @media (max-width: 768px){
     .codeteersimagelogo {
-      display:none;
+      display: none;
     }
   }
 
