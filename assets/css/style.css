@@ -38,12 +38,8 @@ li {
     text-transform: uppercase;
 }
 
-.centre {
-    text-align: center;
-}
-
-.bold {
-    font-weight: 700;
+.hidden {
+    display: none;
 }
 
 /* ------ Header Styles & Menu Link Styles -------- */
@@ -68,9 +64,10 @@ li {
 
 #videocontentsafeonline {
     text-align: center;
+    justify-content: center;
 }
 
-/* ------ Best Practice Page Styles --*/
+
 
 .bestlist {
     margin: 10px;
@@ -78,14 +75,15 @@ li {
     background-color: #e1fbfa;
 }
 
-.bestlist li {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
+/* ------- Best Practice Content ---------  */
+#bestpracticeid {
+    text-align: center;  
+  }
+ 
+/* ------- Best  Resource Content -----*/
 
-.bestlist ul {
-    margin: 10px;
+#resourceid {
+    text-align: center;
 }
 
 /* ------ Footer Styles -------- */
@@ -94,7 +92,12 @@ li {
     text-align: center;
     color: #1d3557;
     background-color: #C1DBDA;
+    position:fixed;
+    width: 100%;
+    bottom:0;
+    padding:0em;
 }
+
 
 /* -- Social Link Styles (edited from original at Code Institute "Love Rosie" project) -- */
 
@@ -125,10 +128,11 @@ li {
 
 .social-links li a i:hover {
     background: orange;
+
 }
 
 
-/ * Media queries */
+/* Media queries */
 
 /* For mobile phones: */
 [class*="col-"] {
@@ -173,3 +177,6 @@ li {
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
   }
+
+
+
