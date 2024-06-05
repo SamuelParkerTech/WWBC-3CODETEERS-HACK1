@@ -26,6 +26,7 @@ h4 {
 p {
     text-align: justify;
     text-justify: inter-word;
+    margin: 10px;
 }
 
 li {
