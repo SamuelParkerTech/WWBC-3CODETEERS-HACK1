@@ -34,7 +34,7 @@ h4 {
     width: 100%;
     text-align: center;
     color: black;
-    background-color: orange;
+    background-color: #C1DBDA;
     padding: 0;
 }
 
@@ -44,6 +44,10 @@ h4 {
 /* ------ Main Page Content -------- */
 
 #onlinedangers {
+  text-align: center;  
+}
+
+#videocontentsafeonline {
     text-align: center;
 }
 
