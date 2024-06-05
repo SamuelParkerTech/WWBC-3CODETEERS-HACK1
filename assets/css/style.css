@@ -38,58 +38,8 @@ h4 {
     padding: 0;
 }
 
-nav {
-    position: relative;
-}
-
-
-.safe-online {
-    background-color: white;
-    height: 30px;
-    padding: 0;
-    margin: 0;
-}
-
-.best-practice {
-    background-color: white;
-    height: 30px;
-    padding: 0;
-    margin: 0;
-}
-
-.resources {
-    background-color: white;
-    height: 30px;
-    padding: 0;
-    margin: 0;
-}
-
-.linkmenu span {
-    display: block;
-    width: 100%;
-    padding-top: 5px;
-    text-align: center;
-    text-transform: uppercase;
-    font-size: 14px;
-    font-weight: 300;
-    letter-spacing: 2px;
-}
-
-.menucontainer {}
-
 /* css Style classes ready (apply to all pages) */
 
-.linksafe {
-    text-decoration: none;
-}
-
-.linkbestpractice {
-    text-decoration: none;
-}
-
-.linkresources {
-    text-decoration: none;
-}
 
 
 /* ------ Main Page Content -------- */
@@ -104,34 +54,4 @@ nav {
     text-align: center;
     color: #1d3557;
     background-color: #C1DBDA;
-}
-
-/* -- Social Link Styles (edited from original at Code Institute "Love Rosie" project) -- */
-
-.social-links {
-    padding-bottom: 15px;
-}
-
-.social-links li a i {
-    width: 24px;
-    height: 24px;
-    padding: 8px 0;
-    border-radius: 20%;
-    font-size: 13px;
-    line-height: 7px;
-    text-align: center;
-    color: #fff;
-    background: #8f8f8f;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-}
-
-.list-inline-item:not(:last-child) {
-    margin: 0;
-}
-
-.social-links li a i:hover {
-    background: orange;
 }
