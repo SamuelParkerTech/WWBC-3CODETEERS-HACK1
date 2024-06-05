@@ -23,26 +23,12 @@ h4 {
     padding: 0;
 }
 
-p {
-    text-align: justify;
-    text-justify: inter-word;
-}
-
-li {
-    text-align: justify;
-    text-justify: inter-word;
-}
-
 .uppercase {
     text-transform: uppercase;
 }
 
-.centre {
-    text-align: center;
-}
-
-.bold {
-    font-weight: 700;
+.hidden {
+    display: none;
 }
 
 /* ------ Header Styles & Menu Link Styles -------- */
@@ -67,25 +53,19 @@ li {
 
 #videocontentsafeonline {
     text-align: center;
+    justify-content: center;
 }
 
-/* ------ Best Practice Page Styles --*/
 
-.bestlist {
-    margin: 10px auto;
-    width: 60%;
-    padding: 10px;
-    background-color: #e1fbfa;
-}
+/* ------- Best Practice Content ---------  */
+#bestpracticeid {
+    text-align: center;  
+  }
+ 
+/* ------- Best  Resource Content -----*/
 
-.bestlist li {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-.bestlist ul {
-    margin: 10px;
+#resourceid {
+    text-align: center;
 }
 
 /* ------ Footer Styles -------- */
@@ -130,6 +110,3 @@ li {
 .social-links li a i:hover {
     background: orange;
 }
-
-
-
