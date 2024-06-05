@@ -23,8 +23,26 @@ h4 {
     padding: 0;
 }
 
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+li {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 .uppercase {
     text-transform: uppercase;
+}
+
+.centre {
+    text-align: center;
+}
+
+.bold {
+    font-weight: 700;
 }
 
 /* ------ Header Styles & Menu Link Styles -------- */
@@ -49,6 +67,25 @@ h4 {
 
 #videocontentsafeonline {
     text-align: center;
+}
+
+/* ------ Best Practice Page Styles --*/
+
+.bestlist {
+    margin: 10px auto;
+    width: 60%;
+    padding: 10px;
+    background-color: #e1fbfa;
+}
+
+.bestlist li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.bestlist ul {
+    margin: 10px;
 }
 
 /* ------ Footer Styles -------- */
