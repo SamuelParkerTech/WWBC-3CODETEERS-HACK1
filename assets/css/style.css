@@ -5,21 +5,21 @@
 html {
     height: 100%;
     width: 100%;
-  }
+}
 
-  body {
+body {
     font-family: "X", sans-serif;
     margin: 0;
     padding: 0;
     background-color: whitesmoke;
     color: black;
-  }
+}
 
-h1, 
-h2, 
-h3, 
+h1,
+h2,
+h3,
 h4 {
-    margin:0;
+    margin: 0;
     padding: 0;
 }
 
@@ -27,22 +27,64 @@ h4 {
     text-transform: uppercase;
 }
 
-/* ------ Header Styles -------- */
+/* ------ Header Styles & Menu Link Styles -------- */
 
-#headerid {text-align: center;
-    color:  black;
-    background-color: orange;}
+#headerid {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    color: black;
+    background-color: #C1DBDA;
+    padding: 0;
+}
 
-/* ------ Main Page Content -------- */    
+/* css Style classes ready (apply to all pages) */
+
+
+/* ------ Main Page Content -------- */
 
 #onlinedangers {
+  text-align: center;  
+}
+
+#videocontentsafeonline {
     text-align: center;
 }
 
 /* ------ Footer Styles -------- */
 
-#footerid
-{text-align: center;
-color: #1d3557;
-background-color: #e63946;
+#footerid {
+    text-align: center;
+    color: #1d3557;
+    background-color: #C1DBDA;
+}
+
+/* -- Social Link Styles (edited from original at Code Institute "Love Rosie" project) -- */
+
+.social-links {
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    width: 24px;
+    height: 24px;
+    padding: 8px 0;
+    border-radius: 20%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fff;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.social-links li a i:hover {
+    background: orange;
 }
