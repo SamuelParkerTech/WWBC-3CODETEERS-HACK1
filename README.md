@@ -6,7 +6,7 @@ Welcome Samuel Parker,
 
 **Team Name: The Three Codeteers**
 
-A group project from the Code Institute for Hackathon 1. Creating a website guide to staying safe online. The project aim to is to create a front end website utislising HTML, CSS and we have decided to also use some Bootstrap. The website should be responsive to all devices. 
+A group project from the Code Institute for Hackathon 1. Creating a website guide to staying safe online. The project aim to is to create a front end website utilising HTML, CSS and we have decided to also use some Bootstrap. The website should be responsive on all devices. 
 
 # Contents
 1. Public Trello Board
