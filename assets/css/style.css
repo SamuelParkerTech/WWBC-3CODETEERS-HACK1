@@ -42,6 +42,11 @@ li {
     text-transform: uppercase;
 }
 
+.centre {
+    text-align: center;
+    margin: auto;
+}
+
 .hidden {
     display: none;
 }
