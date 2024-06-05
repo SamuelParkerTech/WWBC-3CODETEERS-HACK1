@@ -31,6 +31,9 @@ Basic designs for the pages created in Canva.
 # 4. Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
+
+***NEED TO ADD IMAGES ***
+
 Navigation Bar - Main topper , links to the other 3 pages with a notifier of which page you are currently browsing. Visible on all pages.
 Header - Welcome platform to all pages including 'team logo' 'hero' image using our design scheme. 
 Staying Safe Online Page - Content including what dangers we face online, common issues and scams. 
