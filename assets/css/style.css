@@ -23,8 +23,22 @@ h4 {
     padding: 0;
 }
 
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+li {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 .uppercase {
     text-transform: uppercase;
+}
+
+.centre {
+    text-align: center;
 }
 
 /* ------ Header Styles & Menu Link Styles -------- */
