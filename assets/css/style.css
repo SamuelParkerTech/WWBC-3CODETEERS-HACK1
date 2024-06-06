@@ -32,6 +32,7 @@ li {
     text-align: justify;
     text-justify: inter-word;
 }
+
 .uppercase {
     text-transform: uppercase;
 }
@@ -56,7 +57,9 @@ nav {
     font-weight: 400;
 }
 
-.nav-link.active {color: orange !important;}
+.nav-link.active {
+    color: orange !important;
+}
 
 #headerid {
     position: relative;
@@ -73,17 +76,17 @@ nav {
 /* ------ Main Page Content -------- */
 
 #onlinedangers {
-  text-align: center;  
+    text-align: center;
 }
 
-.dangersonline-icon  {
+.dangersonline-icon {
     font-size: 72px;
     color: #C1DBDA;
     padding-right: 50px;
 
 }
 
-.dangersonline-heading  {
+.dangersonline-heading {
     margin-bottom: 15px;
 }
 
@@ -91,11 +94,13 @@ nav {
     justify-content: center;
     display: table;
     padding: 0 30px 30px;
-    float:none;
+    float: none;
 }
 
 
-.safeimage  {width:  200px;}
+.safeimage {
+    width: 200px;
+}
 
 #videocontentsafeonline {
     text-align: center;
@@ -104,12 +109,13 @@ nav {
 
 .video-container {
     position: relative;
-    padding-bottom: 56.25%; 
+    padding-bottom: 56.25%;
     height: 0;
     overflow: hidden;
     max-width: 100%;
     background: #000;
 }
+
 .video-container iframe {
     position: absolute;
     top: 0;
@@ -120,16 +126,16 @@ nav {
 
 /* ------- Best Practice Content ---------  */
 #bestpracticeid {
-    text-align: left;  
-  }
+    text-align: left;
+}
 
-  .bestlist {
+.bestlist {
     margin: 10px;
     padding: 10px;
     background-color: #e1fbfa;
     list-style-type: none;
 }
- 
+
 /* ------- Best  Resource Content -----*/
 
 #resourceid {
@@ -142,10 +148,10 @@ nav {
     text-align: center;
     color: #1d3557;
     background-color: #C1DBDA;
-    position:fixed;
+    position: fixed;
     width: 100%;
-    bottom:0;
-    padding:0em;
+    bottom: 0;
+    padding: 0em;
 }
 
 
@@ -185,11 +191,8 @@ nav {
 /* Media queries */
 
 /* remove the logo on screens below 768px width */
-@media (max-width: 768px){
+@media (max-width: 768px) {
     .codeteersimagelogo {
-      display: none;
-    }
-    .dangersonline-icon {
         display: none;
     }
-  }
+}
