@@ -77,12 +77,19 @@ nav {
 }
 
 .dangersonline-icon  {
-    font-size: 26px;
+    font-size: 72px;
     color: #C1DBDA;
 }
 
 .dangersonline-heading  {
     margin-bottom: 15px;
+}
+
+.section-column {
+    justify-content: center;
+    display: table;
+    padding: 0 30px 30px;
+    float:none;
 }
 
 .safeimage  {width:  200px;}
