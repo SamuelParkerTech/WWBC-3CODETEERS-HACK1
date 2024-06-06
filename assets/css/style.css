@@ -79,6 +79,8 @@ nav {
 .dangersonline-icon  {
     font-size: 72px;
     color: #C1DBDA;
+    padding-right: 50px;
+
 }
 
 .dangersonline-heading  {
@@ -91,6 +93,7 @@ nav {
     padding: 0 30px 30px;
     float:none;
 }
+
 
 .safeimage  {width:  200px;}
 
