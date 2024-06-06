@@ -58,7 +58,11 @@ nav {
 }
 
 .nav-link.active {
-    color: orange !important;
+    color: #ae853e  !important;
+}
+
+.nav-link:hover {
+    color: #ae853e !important;
 }
 
 #headerid {
