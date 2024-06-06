@@ -2,11 +2,6 @@
 
 /* ------ General Rules -------- */
 
-html {
-    height: 100%;
-    width: 100%;
-}
-
 body {
     font-family: "X", sans-serif;
     margin: 0;
@@ -56,6 +51,13 @@ li {
 
 /* ------ Header Styles & Menu Link Styles -------- */
 
+nav {
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.nav-link.active {color: orange !important;}
+
 #headerid {
     position: relative;
     width: 100%;
@@ -79,6 +81,22 @@ li {
 #videocontentsafeonline {
     text-align: center;
     justify-content: center;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%; 
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    background: #000;
+}
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 /* ------- Best Practice Content ---------  */
