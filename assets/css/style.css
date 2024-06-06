@@ -76,6 +76,15 @@ nav {
   text-align: center;  
 }
 
+.dangersonline-icon  {
+    font-size: 26px;
+    color: #C1DBDA;
+}
+
+.dangersonline-heading  {
+    margin-bottom: 15px;
+}
+
 .safeimage  {width:  200px;}
 
 #videocontentsafeonline {
